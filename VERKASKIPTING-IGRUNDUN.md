@@ -1,11 +1,43 @@
 ## Verkaskipting
+
 Skrifið stutta lýsingu um hvernig þið
-#### skiptuð með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman 
+
+#### skiptuð með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman
+
 #### rýnduð kröfurnar hjá hvert öðru
-####  gerðuð pull, commit og push og pull request
 
-## Ígrundun 
-Í lok verkefnis gerið endurmat á verkefninu: 
-#### Hvað gekk vel í verkefninu 
+#### gerðuð pull, commit og push og pull request
 
-#### Hvað má bæta næst 
+Skipting hagsmunaaðila:
+Dagur
+-2 tegundir hagsmunaaðila (aðrir en viðskiptavinir og notendur) utan stofnunar viðskiptavinar
+
+- 1 tegund viðskiptavina (aðrir en notendur)
+- 1 kjörinn og einn annar notendahópur
+
+Stefán
+
+- 2 tegundir hagsmunaaðila (aðrir en viðskiptavinir og notendur) innan stofnunar viðskiptavinar
+- 1 tegund viðskiptavina (aðrir en notendur)
+- 1 óæskilegur og einn annar notendahópur (einn óbeinn)
+
+Skipting árekstra:
+Dagur
+
+- 2 árekstrar í viðskiptaáætlun (business strategy conflicts)
+
+- 2 árekstrar um virði krafna (requirements value conflicts)
+
+Stefán
+
+- 2 árekstrar um innihald krafna (requirements substance conflicts)
+
+- 2 árekstrar í ferli krafna (requirements process conflicts)
+
+## Ígrundun
+
+Í lok verkefnis gerið endurmat á verkefninu:
+
+#### Hvað gekk vel í verkefninu
+
+#### Hvað má bæta næst
