@@ -7,5 +7,5 @@ Skrifið stutta lýsingu um hvernig þið
 ## Ígrundun 
 Í lok verkefnis gerið endurmat á verkefninu: 
 #### Hvað gekk vel í verkefninu 
-
+það gékk vel að skipta verkefnum á milli okkar og klára verkefnið tímanlega
 #### Hvað má bæta næst 
