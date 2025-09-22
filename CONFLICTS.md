@@ -29,8 +29,8 @@
    - Lausn: Samkomulag um 2–3 staðlað snið (t.d. PDF, DOCX) og aðrar skrár eingöngu með sérleyfi.  
 
 6. **Dæmi #6**  
-   - Átaksþáttur: Foreldrar eða námsráðgjafar vilja hafa aðgang að einkunnum og framvindu nemenda, en nemendur telja þetta raska persónuvernd.  
-   - Hagsmunaaðilar: Foreldrar/ráðgjafar (óbeinir notendur), nemendur.  
+   - Átaksþáttur: Námsráðgjafar vilja hafa aðgang að einkunnum og framvindu nemenda, en nemendur telja þetta raska persónuvernd.  
+   - Hagsmunaaðilar: Ráðgjafar (óbeinir notendur), nemendur.  
    - Lausn: Aðgangur aðeins veittur ef nemandi samþykkir það formlega (t.d. í gegnum stillingar).  
 
 ## Requirements Process Conflicts
