@@ -37,4 +37,4 @@ Stefán
 #### Hvað gekk vel í verkefninu 
 það gékk vel að skipta verkefnum á milli okkar og klára verkefnið tímanlega
 #### Hvað má bæta næst 
-Hefðum mátt eyða meiri tíma í að fara yfir og nýta tímann okkar betur.
+Hefðum mátt eyða meiri tíma í að fara yfir og nýta hefði einnig mátt tímann betur til að hittast oftar og samræma lausnir og hugmyndir.
