@@ -66,3 +66,4 @@
 - **Notendahópur:** Nemendur
 - **Starf/hlutverk:** Háskólanemi í tölvunarfræði
 - **Lýsing:** Anna vill hafa skýra yfirsýn yfir námsframvindu sína og sjá hvernig einkunnir vega að lokaeinkunn. Hún notar kerfið til að skila verkefnum og skoða endurgjöf frá kennurum. Markmið hennar er að geta skipulagt tímann sinn betur og vita hvenær hún þarf að leggja meira á sig. Pirrandi atriði fyrir hana eru að þurfa að skoða margar mismunandi vefsíður og tölvupósta til að finna allar upplýsingar.
+
