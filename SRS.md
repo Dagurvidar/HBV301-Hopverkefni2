@@ -8,7 +8,7 @@ Nemendakerfi fyrir námsmat
 ## 1. Inngangur
 
 ### 1.1 Gildissvið (Scope)
-Kerfið er hannað til að styðja við námsmat í háskóla eða framhaldsskóla.  
+Kerfið er hannað til að styðja við námsmat í háskóla.  
 Helstu markmið eru:  
 - Einfalda innsendingu verkefna og prófa fyrir nemendur  
 - Bjóða kennurum upp á auðvelda skráningu einkunna og endurgjafar  
@@ -19,11 +19,11 @@ Kerfið á að auka skilvirkni, gagnsæi og gagnageymslu í námsmati.
 ### 1.2 Tilvísanir
 - IEEE 29148 staðall (Software Requirements Specification)  
 - COS Vision & Scope template (fyrirmynd)  
-- Eigið efni úr Verkefni 1  
+- Verkefni 1 (https://github.com/Dagurvidar/HBV301-Hopverkefni)
 
 ## 2. Lýsing á hagsmunaaðilum og notendahópum
-Helstu hagsmunaaðilar eru nemendur, kennarar, stjórnendur skólans, tæknideild, foreldrar/forráðamenn og ytri aðilar eins og Persónuvernd.  
-Nemendur og kennarar eru beinir notendur, en foreldrar/forráðamenn teljast óbeinir notendur.  
+Helstu hagsmunaaðilar eru nemendur, kennarar, stjórnendur skólans, tæknideild og ytri aðilar eins og Persónuvernd.  
+Nemendur og kennarar eru beinir notendur, en forráðamenn teljast óbeinir notendur.  
 Skólastjórnendur og menntayfirvöld teljast viðskiptavinir sem vilja nýta kerfið til að bæta námsmat og hafa yfirsýn.  
 
 [Hagsmunaaðilar og notendahópar](STAKEHOLDERS.md)
