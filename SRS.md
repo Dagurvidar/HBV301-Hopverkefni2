@@ -1,34 +1,43 @@
 # Software Requirements Specification (útgáfa fyrir verkefni 2)
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+Hópur 7. Stefán Steinar Guðlaugsson, Dagur Ingi viðar.
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+Nemendakerfi fyrir námsmat
 
 ## 1. Inngangur
 
 ### 1.1 Gildissvið (Scope)
-Stutt lýsing á vörunni og helstu markmiðum.
+Kerfið er hannað til að styðja við námsmat í háskóla.  
+Helstu markmið eru:  
+- Einfalda innsendingu verkefna og prófa fyrir nemendur  
+- Bjóða kennurum upp á auðvelda skráningu einkunna og endurgjafar  
+- Gefa bæði nemendum og kennurum skýra yfirsýn yfir námsframvindu  
+
+Kerfið á að auka skilvirkni, gagnsæi og gagnageymslu í námsmati.  
 
 ### 1.2 Tilvísanir
-- IEEE 29148 staðall
-- COS Vision & Scope (fyrirmynd) eða aðrar fyrirmyndir sem þið notið
+- IEEE 29148 staðall (Software Requirements Specification)  
+- COS Vision & Scope template (fyrirmynd)  
+- Verkefni 1 (https://github.com/Dagurvidar/HBV301-Hopverkefni)
 
 ## 2. Lýsing á hagsmunaaðilum og notendahópum
-
-Stutt samantekt úr STAKEHOLDERS.md – hverjir eru hagsmunaaðilar, hverjir nota kerfið og hvernig.
-Setjið hlekk á STAKEHOLDERS skrána 
+Helstu hagsmunaaðilar eru nemendur, kennarar, stjórnendur skólans, tæknideild og ytri aðilar eins og Persónuvernd.  
+Nemendur og kennarar eru beinir notendur, en forráðamenn teljast óbeinir notendur.  
+Skólastjórnendur og menntayfirvöld teljast viðskiptavinir sem vilja nýta kerfið til að bæta námsmat og hafa yfirsýn.  
 
 [Hagsmunaaðilar og notendahópar](STAKEHOLDERS.md)
 
 ## 3. Greining á mögulegum árekstrum og tillögu að úrlausnum
-
-Stutt samantekt á CONFLICTS.md - hverjir eru hugsanlegir árekstrar og tillögur
-að úrlausnum 
-Setjið hlekk á CONFLICTS skrána 
+Hugsanlegir árekstrar snúa að ólíkum kröfum milli hagsmunaaðila, t.d. árekstrar milli þess sem nemendur vilja (tilkynningar í appi) og þess sem kennarar vilja (einfaldleika).  
+Viðskiptaárekstrar geta einnig komið upp milli skólastjórnenda sem vilja hraða innleiðingu og verktaka sem vilja meiri tíma.  
+Tillögur að lausnum fela í sér stigskiptar útgáfur, valfrjálsar stillingar og kröfustýringarmechanisma.  
 
 [Árekstrar og úrlausnir](CONFLICTS.md)
 
 ## 4. Verkaskipting og ígrundun 
-Stutt samantekt og hlekkur á skrána 
+Við skiptum verkefninu niður þannig að hver hópmeðlimur tók að sér ákveðna hluta (hagsmunaaðilar, árekstrar, persona, verkaskipting).  
+Allir hópmeðlimir gerðu að minnsta kosti eitt commit, push og pull request.  
+Ígrundun sýndi að hópavinnan gekk vel, þó að hægt hefði verið að hittast oftar til að samræma útfærslur.  
+
 [Verkaskipting og ígrundun](VERKASKIPTING-IGRUNDUN.md)
