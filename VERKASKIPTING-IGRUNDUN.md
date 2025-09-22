@@ -4,10 +4,6 @@ Skrifið stutta lýsingu um hvernig þið
 
 #### skiptuð með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman
 
-#### rýnduð kröfurnar hjá hvert öðru
-
-#### gerðuð pull, commit og push og pull request
-
 Skipting hagsmunaaðila:
 Dagur
 -2 tegundir hagsmunaaðila (aðrir en viðskiptavinir og notendur) utan stofnunar viðskiptavinar
@@ -33,6 +29,10 @@ Stefán
 - 2 árekstrar um innihald krafna (requirements substance conflicts)
 
 - 2 árekstrar í ferli krafna (requirements process conflicts)
+
+#### rýnduð kröfurnar hjá hvert öðru
+
+#### gerðuð pull, commit og push og pull request
 
 ## Ígrundun
 
