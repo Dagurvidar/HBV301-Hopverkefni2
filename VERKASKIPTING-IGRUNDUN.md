@@ -32,12 +32,9 @@ Stefán
 
 #### rýnduð kröfurnar hjá hvert öðru
 
-#### gerðuð pull, commit og push og pull request
-
-## Ígrundun
-
-Í lok verkefnis gerið endurmat á verkefninu:
-
-#### Hvað gekk vel í verkefninu
-
-#### Hvað má bæta næst
+## Ígrundun 
+Í lok verkefnis gerið endurmat á verkefninu: 
+#### Hvað gekk vel í verkefninu 
+það gékk vel að skipta verkefnum á milli okkar og klára verkefnið tímanlega
+#### Hvað má bæta næst 
+Hefðum mátt eyða meiri tíma í að fara yfir og nýta tímann okkar betur.
