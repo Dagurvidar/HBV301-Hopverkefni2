@@ -2,8 +2,14 @@
 
 ## Utan stofnunar viðskiptavinar (ekki viðskiptavinir)
 
-1. **[Canvas #1]** – Hýsir UI verkefnisins. Aðilar hafa væntingar um að síðan þeirra (Canvas) fái meiri notkun og betri umsagnir fyrir hana.
-2. **[ #2]** – hlutverk og væntingar.
+1. **[Canvas #1]**
+
+   - Hlutverk: Hýsir UI verkefnisins.
+   - Væntingar: Aðilar hafa væntingar um að síðan þeirra (Canvas) fái meiri notkun og betri umsagnir fyrir hana.
+
+2. **[Persónuvernd Íslands #2]**
+   - Hlutverk: Sér um að persónuverndarlögum sé fylgt við söfnun og geymslu gagna nemenda.
+   - Væntingar: Hafa væntingar um að gögn nemenda séu örugg og með farinn á löglegan hátt.
 
 ## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
 
@@ -24,6 +30,9 @@
    - Áhrif: Setja lagalegar og formlegar kröfur sem hafa áhrif á þróun og virkni kerfisins.
 
 2. **Háskóli Íslands**
+
+- Hlutverk: Kaupa og nota kerfið í skólum.
+- Áhrif: Setja kröfur um uppsetningu, útlit og/eða virkni kerfisins.
 
 ## Notendahópar
 
